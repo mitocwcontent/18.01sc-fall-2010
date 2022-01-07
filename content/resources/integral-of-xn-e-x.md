@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: Integral of xn e(-x)
+uid: dfeaa5a7-afe3-d95f-ebeb-4615cd6efe59
+video_files:
+  archive_url: http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_71_300k.mp4
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/433ec3ebacb255c99ff5db9fad0ce394_apzEJCsycVM.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/apzEJCsycVM/default.jpg
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/f6a35623055206bd54a8c6d3f830cd5a_apzEJCsycVM.pdf
+video_metadata:
+  youtube_id: apzEJCsycVM
+---
