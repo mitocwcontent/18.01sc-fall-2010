@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: Area Between y=x3 and y=3x-2
+uid: ecedaefa-d64f-4369-b70d-1217b88cc0a9
+video_files:
+  archive_url: http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_43_300k.mp4
+  video_captions_file: /courses/18-01sc-single-variable-calculus-fall-2010/1aa7604bd134557687a90c929f97d762_U3ebQ5Z4Jt8.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/U3ebQ5Z4Jt8/default.jpg
+  video_transcript_file: /courses/18-01sc-single-variable-calculus-fall-2010/59c6aac137e69d79f3346b7c68a248c3_U3ebQ5Z4Jt8.pdf
+video_metadata:
+  youtube_id: U3ebQ5Z4Jt8
+---
